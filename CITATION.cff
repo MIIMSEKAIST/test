@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the associated article."
+title: "Analysis code for junction-state-dependent atomic conductance in graphite"
+type: software
+authors:
+  - family-names: Kim
+    given-names: Yeongyu
+  - family-names: Hong
+    given-names: Seungbum
+

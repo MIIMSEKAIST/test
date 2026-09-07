@@ -1,0 +1,4 @@
+# Install a CuPy build compatible with the local CUDA toolkit.
+# Example for CUDA 12.x:
+cupy-cuda12x==13.4.0
+
