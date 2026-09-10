@@ -50,8 +50,7 @@ The main outputs under `results/analysis/` are:
 
 Figure tables are written to `results/figure_source_data/`.
 The input checksums and software versions are recorded in `results/`.
-Definitions are in [METHODS.md](METHODS.md); a notebook entry point is in
-[notebooks/analyze_maps.ipynb](notebooks/analyze_maps.ipynb).
+
 
 ## Tests
 
